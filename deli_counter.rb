@@ -1,4 +1,4 @@
-def katzDeli = [];
+def  = [];
 
 function currentLine(line){
   if(!line.length) {
