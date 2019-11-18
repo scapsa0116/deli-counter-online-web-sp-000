@@ -8,4 +8,4 @@ end
 
 def now_serving(name) 
   puts "the next person in line"
-  puts
+  puts"There is nobody waiting to be served!"
