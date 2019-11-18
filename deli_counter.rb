@@ -4,7 +4,7 @@ def curent_line(line)
   if(!line.length) 
     return "The line is currently empty."
   end
-  var lineNamesandNumbers = [];
+  
   
   for(var i=0; i<line.length; i++) 
     lineNamesandNumbers.push(i+1 + ". "+ line[i]);
