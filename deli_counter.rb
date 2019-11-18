@@ -1,4 +1,8 @@
 def deli_counter(katz_deli,other_deli another_deli)
+   katz_deli = [] 
+   other_deli = ["Logan", "Avi", "Spencer"] 
+  ["Amanda", "Annette", "Ruchi", "Jason", "Logan", "Spencer", "Avi", "Joe", "Rachel", "Lindsey"]
+
 end
 
 def take_a_number(katz_deli,index)
