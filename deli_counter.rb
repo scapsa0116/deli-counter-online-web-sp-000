@@ -4,9 +4,9 @@ katz_deli = []
 def take_a_number(katz_deli,index)
   ary = [ ]
   katz_deli.each_with_index do |name, index+1|
-    return ary << "H"
-  
-  
+    return ary << "Welcome, #{name}. You are number #{index+1} in line."
+  end
+  return ary
 end
 
 def line(katz_deli)
