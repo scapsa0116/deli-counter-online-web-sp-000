@@ -1,5 +1,5 @@
-
-katz_deli = []
+def deli_counter(katz_deli,other_deli another_deli)
+end
 
 def take_a_number(katz_deli,index)
   ary = [ ]
