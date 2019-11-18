@@ -1,6 +1,6 @@
-def  = [];
+def katz_deli = []
 
-function currentLine(line){
+def currentLine(line){
   if(!line.length) {
     return "The line is currently empty.";
   }
